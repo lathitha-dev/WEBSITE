@@ -1,37 +1,47 @@
 # WEBSITE
 Table of content
 
-What is a developer portfolio website?
+-What is a developer portfolio website?
 
-Why you should have a portfolio website
+-Why you should have a portfolio website
 
-Portfolio project -how to build your own online developer portfolio 
+-Portfolio project -how to build your own online developer portfolio 
 
-The project folder structure 
+-The project folder structure 
 
-The basic html boilerplate
+-The basic html boilerplate
 
-The navbar section
+-The navbar section
 
-How to style the navbar
+-How to style the navbar
 
-How  to build the hero section
+-How  to build the hero section
 
-How to build the hero section
+-How to build the hero section
 
-How to style the hero section
+-How to style the hero section
 
-How to build the more about me section
+-How to build the more about me section
 
-How to build the skills section
+-How to build the skills section
 
-How to style the skills section
+-How to style the skills section
 
-How to build the projects section 
+-How to build the projects section 
 
-How to style the project section
+-How to style the project section
 
-How to style the contact section
+-How to style the contact section
+
+-How to make the more about me section responsive 
+
+-How to make the skills section responsive
+
+-How to make the contact form resposive
+
+-How to make the website responsive on small phones
+
+-Conclusion
 
 How to style the social icons
 
