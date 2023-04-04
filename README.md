@@ -1,9 +1,10 @@
 How to build your own developer portfolio website with html,css and javascript
+
 Table of content
 
 -what is a developer portfolio website?
 
--portfolio project-how to build your own online developer portfolio
+-portfolio project- how to build your own online developer portfolio
 
 -the project folder structure
 
@@ -33,17 +34,9 @@ Table of content
 
 -how to style the social icons 
 
-how to add the scroll to top button
-
-the html for the scroll to top button
-
-how to style the scroll to top icon
-
 -how to add the scroll to top button
 
 -the html for the scroll to top button
-
--how to style the the scroll to top button
 
 -how to style the scroll to top icon
 
@@ -53,10 +46,20 @@ how to style the scroll to top icon
 
 -how to build the hamburger menu
 
--the javscript for the hamburger menu
+-the javascript for the hamburger menu
 
 -how to make the hero section responsive
 
 -how to make the more about me section responsive
 
 -how to make the skills section responsive
+
+-how to make the projects section responsive
+
+-how to make the contact form responsive
+
+-how to make the website responsive on smallphones
+
+-conclusion
+
+
