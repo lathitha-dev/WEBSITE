@@ -26,3 +26,31 @@ Table of content
 -how to build the projects section
 
 -how to style the projects section
+
+-how to build the contact section
+
+-how to style the the contact section
+
+-how to style the social icons 
+
+-how to add the scroll to top button
+
+-the html for the scroll to top button
+
+-how to style the the scroll to top button
+
+-how to style the scroll to top icon
+
+-how to make your portfolio website responsive
+
+-how to create the media query for tablets and mobile phones(max-width 720px)
+
+-how to build the hamburger menu
+
+-the javscript for the hamburger menu
+
+-how to make the hero section responsive
+
+-how to make the more about me section responsive
+
+-how to make the skills section responsive
