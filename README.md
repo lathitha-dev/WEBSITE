@@ -33,6 +33,12 @@ Table of content
 
 -how to style the social icons 
 
+how to add the scroll to top button
+
+the html for the scroll to top button
+
+how to style the scroll to top icon
+
 -how to add the scroll to top button
 
 -the html for the scroll to top button
