@@ -1,16 +1,16 @@
 # How to build your own developer portfolio website with html,css and javascript
 
-Table of content
+# Table of content
 
--what is a developer portfolio website?
+# what is a developer portfolio website?
 
--portfolio project- how to build your own online developer portfolio
+# portfolio project- how to build your own online developer portfolio
 
--the project folder structure
+# the project folder structure
 
--the basic html boilerplate
+# the basic html boilerplate
 
--the navbar section
+# the navbar section
 
 -how to style the navbar
 
