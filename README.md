@@ -1,6 +1,6 @@
 ## How to build your own developer portfolio website with html,css and javascript
 
-# Table of content
+### Table of content
 
 # what is a developer portfolio website?
 
