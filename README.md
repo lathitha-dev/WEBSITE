@@ -1,4 +1,4 @@
-##How to build your own developer portfolio website with html,css and javascript
+# How to build your own developer portfolio website with html,css and javascript
 
 Table of content
 
