@@ -1,5 +1,7 @@
 #### HOW TO BUILD YOUR OWN DEVELOPER PORTFOLIO WEBSITE WITH  HTML , CSS  &  JAVASCRIPT ?
 
+- If you're brand new to HTML and CSS,this is the book for you.You'll learn about HTML,the skeleton of a webpage.You'll learn 
+
 ###### Table of content
  A table of contents is a list, usually on a page at the beginning of a piece of academic writing, which outlines the chapters or sections names with their corresponding page numbers. In addition to chapter names , it includes bullet points of the sub-chapter headings or subsetion headings.
 
