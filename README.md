@@ -1,5 +1,5 @@
+If you're brand new to HTML and CSS,this is the book for you.You'll learn HTML,the skeleton of a webpage.You'll learn about CSS,the skin of a webpage.You'll even learn a little about JavaScript,the muscles of a webpage.Sprinkle in some DevTools and HTTP requests.Now you've got a proper web dev primer.Enjoy the book,and bookmark it for Future references as well,(full-length handbook):https://www.freecodecamp.org/news/html-css-handbook-for-beginners/
 
-- If you're brand new to HTML and CSS,this is the book for you.You'll learn HTML,the skeleton of a webpage.You'll learn about CSS,the skin of a webpage.You'll even learn a little about JavaScript,the muscles of a webpage.Sprinkle in some DevTools and HTTP requests.Now you've got a proper web dev primer.Enjoy the book,and bookmark it for Future references as well,(full-length handbook):https://www.freecodecamp.org/news/html-css-handbook-for-beginners/
 #### HOW TO BUILD YOUR OWN DEVELOPER PORTFOLIO WEBSITE WITH  HTML , CSS  &  JAVASCRIPT?
 ###### Table of content
  A table of contents is a list, usually on a page at the beginning of a piece of academic writing, which outlines the chapters or sections names with their corresponding page numbers. In addition to chapter names , it includes bullet points of the sub-chapter headings or subsetion headings.
