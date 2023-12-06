@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+
+ <head>
+
+  <title>HTML Textbox</title>
+
+
+</head>
+
+
+<body>
+ <input type="text">
+</body>
+
+
+</html>
